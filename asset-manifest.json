@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Cakes-page-React/static/css/main.7cc5d745.css",
+    "main.js": "/Cakes-page-React/static/js/main.78848cf4.js",
+    "static/js/787.d397f12e.chunk.js": "/Cakes-page-React/static/js/787.d397f12e.chunk.js",
+    "static/media/restaurant-2.jpg": "/Cakes-page-React/static/media/restaurant-2.93dff2e2916b6ffbba7b.jpg",
+    "static/media/restaurant.jpg": "/Cakes-page-React/static/media/restaurant.e0b5e42b6b5f3f368101.jpg",
+    "static/media/favourite.jpg": "/Cakes-page-React/static/media/favourite.aa8b191baa04f6c46bb1.jpg",
+    "static/media/kitchen.jpg": "/Cakes-page-React/static/media/kitchen.69fe3639bab0839eede5.jpg",
+    "static/media/cake1.jpg": "/Cakes-page-React/static/media/cake1.f5d6dc05feb15e90df07.jpg",
+    "static/media/cake2.jpg": "/Cakes-page-React/static/media/cake2.565145a2bb59573b8689.jpg",
+    "static/media/cake5.jpg": "/Cakes-page-React/static/media/cake5.da52d24c727c1e3ae492.jpg",
+    "static/media/cake4.jpg": "/Cakes-page-React/static/media/cake4.145adac62dd2f69c3cb5.jpg",
+    "static/media/cake6.jpg": "/Cakes-page-React/static/media/cake6.069b78967ea400b0cecd.jpg",
+    "static/media/cake3.jpg": "/Cakes-page-React/static/media/cake3.119fadbbb1df56c070c8.jpg",
+    "index.html": "/Cakes-page-React/index.html",
+    "main.7cc5d745.css.map": "/Cakes-page-React/static/css/main.7cc5d745.css.map",
+    "main.78848cf4.js.map": "/Cakes-page-React/static/js/main.78848cf4.js.map",
+    "787.d397f12e.chunk.js.map": "/Cakes-page-React/static/js/787.d397f12e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cc5d745.css",
+    "static/js/main.78848cf4.js"
+  ]
+}
